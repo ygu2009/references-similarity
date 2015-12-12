@@ -1,0 +1,103 @@
+[1] S. Lloyd, Least squares quantization in PCM. IEEE transactions on Information
+Theory, 28(2), pp. 129-137, 1982.
+[2] R. Sibson, SLINK: an optimally efficient algorithm for the single-link cluster method.
+The Computer Journal (British Computer Society), 16(1), pp. 30-34, 1973.
+[3] D. Defays, An efficient algorithm for a complete link method. The Computer Journal
+(British Computer Society), 20(4), pp. 364-366, 1977.
+[4] C. M. Bishop, Pattern Recognition and Machine Learning. Springer, 2007.
+[5] K. P. Murphy, Machine Learning: A Probabilistic Perspective. the MIT Press, 2012.
+[6] M. Sonka, V. Hlavac, and R. Boyle, Image Processing, Analysis, and Machine Vision.
+Cengage Learning; 3 edition, 2008.
+[7] H. Kriegel, P. Kroger, J. Sander, and A. Zimek, Density-based clustering. WIREs
+Data Mining and Knowledge, 1(3), pp. 231-240, 2011.
+[8] A. Rodriguez and A. Laio, Clustering by fast search and and of density peaks.
+Science, 344, pp. 1492-1496, 2014.
+[9] M. Verleysen and D. Francois, The curse of dimensionality in data mining and time
+series prediction. IWANN05 Proceedings of the 8th international conference on Ar-
+tificial Neural Networks: computational Intelligence and Bioinspired Systems, pp.
+758{770, 2005.
+[10] I. J. Myung, Tutorial on maximum likelihood estimation. Journal of Mathematical
+Psychology, 47, pp. 90-100, 2003.
+[11] S. Purcell, Maximum Likelihood Estimation. http://statgen.iop.kcl.ac.uk/bgim/mle/sslike1.html
+[12] J. Gauvain and C. Lee, Maximum a posteriori estimation for multivariate Gaussian
+mixture observations of Markov chains. IEEE Trans. On Speech and Audio Process-
+ing, pp. 291-298, 1994.
+[13] A. P. Dempster, N. M. Laird and D.B. Rubin, Maximum Likelihood from Incom-
+plete Data via the EM Algorithm. Journal of the Royal Statistical Society, Series
+B,39(1), pp. 1-38, 1977.
+[14] Z. Ghahramani, and M. I. Jordan, Supervised learning from incomplete data via an
+EM approach. Advances in Neural information Processing Systems, 6, pp. 120-127,
+1994.
+[15] L. Xu and M. I. Jordan, On Convergence Properties of the EM Algorithm for
+Gaussian Mixtures. Neural Computation, 8, pp. 129-151, 1995.
+[16] J. Bilmes, A Gentle Tutorial of the EM Algorithm and its Application to Parameter
+Estimation for Gaussian Mixture and Hidden Markov Models. 1998.
+[17] R.M. Neal, Markov chain sampling methods for Dirichlet process mixture models.
+Journal of Computational and Graphical Statistics, 9(2), pp. 249-265, 2000.
+[18] D. Gorur and C. E. Rasmussen, Dirichlet process Gaussian mixture models: choice
+of base distribution. Journal of Computer Science and Technology, 25(4), pp. 615-
+626, 2010.
+[19] F. Nielsen and V. Garcia, Statistical exponential families: A digest with ash cards.
+2011
+[20] K. P. Murphy, Conjugate Bayesian analysis of the Gaussian distribution. 2007
+[21] N. Ueda and R. Nakano, Deterministic annealing EM algorithm. Neural Networks,
+11(2), pp. 271-282, 1998.
+[22] G. Elidan, M. Ninio, N. Friedman and D. Schuurmans, Data perturbation for es-
+caping local maxima in learning. Eighteenth national conference on Artificial Intel-
+ligence, pp. 132-139, 2002.
+[23] Z. Zhang, B. T. Dai, and A. K. H. Tung, Estimating local optimums in EM algo-
+rithm over Gaussian mixture model. ICML 08 Proceedings of the 25th international
+conference on Machine Learning, pp. 1240-1247, 2008.
+[24] N. Vlassis and A. Likas, A Greedy EM Algorithm for Gaussian Mixture Learning.
+Neural Processing Letters, 15, pp. 77-87, 2002.
+[25] J. J. Verbeek, N. Vlassis and B. Krose, Efficient Greedy Learning of Gaussian
+Mixture Models. Neural Computation, 15(2), pp. 469-485, 2003.
+[26] J. Zhang, The Mean Field Theory in EM Procedures for Markov Random Fields,
+IEEE Transactions on Signal Processing, 40(10), pp. 2570-2583, 1992.
+[27] A Wilcox, K Natarajan, C Weng, Using personal health records for automated
+clinical trials recruitment: the ePaIRing model. Proc. AMIA Translational Bioinfor-
+matics Summit 2009, pp. 136-140, 2009
+[28] J. Kamal et al, Using an information warehouse to screen patients for clinical trials:
+a prototype. Proc. 2005 AMIA Annual Symp, pp. 1004, 2005.
+[29] Lonsdale et al., Assessing clinical trial eligibility with logic expression queries. Data
+& Knowledge Engineering, 66(1), pp. 3-17, 2008.
+[30] L. Rokach et al., Information retrieval system for medical narrative reports. Lecture
+Notes in Computer Science,Springer, 3055, pp. 217-228, 2004.
+[31] B. MacCartney et al., Learning to recognize features of valid textual entailment.
+Proceedings of the Human Language Technology Conference of the North Ameri-
+can Chapter of the Association for Computational Linguistics (HLT-NAACL 2006),
+2006.
+[32] B. MacCartney and C. Manning, Modeling semantic containment and exclusion in
+natural language inference. The 22nd International Conference on Computational
+Linguistics (Coling-08), Manchester, UK, 2008.
+[33] A. Hickl et al., Recognizing textural entailment with LCC's Groundhog System.
+Proc. 2nd PASCAL Challenges Workshop on Recognizing Textural Entailment, 2006.
+[34] A. Hickl and J. Bensley, A discourse commitment-based framework for recognizing
+textual entailment. Proc. ACL, 2007.
+[35] L. Li, H. S. Chase, C. O. Patel, C. Friedman, and C. Weng, Comparing ICD9-
+encoded diagnoses and NLP-processed discharge summaries for clinical trials pre-
+Screening: A case study. AMIA Annu Symp Proc. 2008, pp. 404-408, 2008.
+[36] D. Jurafsky and J. J. Martin, Speech and Language Processing, Prentice-Hall, 2nd
+Edition, 2008.
+[37] Stanford software: parsing and subtree search.
+http://nlp.stanford.edu/software/lex-parser.shtml, and
+http://nlp.stanford.edu/software/tregex.shtml
+[38] A reference about WordNet, http://search.cpan.org/dist/WordNet-Similarity/
+[39] A reference about PubMed website. http://www.ncbi.nlm.nih.gov/
+[40] J. Zhang, Y. Gu, etc., Automatic patient search for breast cancer clinical trials
+using free-text medical reports. ACM International Health Informatics Symposium,
+IHI 2010, pp. 405-409, 2010.
+[41] Y. Gu, C. Kallas, J. Zhang, etc., Automatic Patient Search Using Bernoulli Model.
+Healthcare Informatics (ICHI) 2013 IEEE International Conference on, pp. 517-522,
+2013.
+[42] C. Manning, P. Raghavan, and H. Schutze, Introduction to Information Retrieval.
+Cambridge University Press, 2008.
+[43] D. Losada, Language modeling for sentence retrieval: A comparison between
+multiple-Bernoulli models and multinomial models. Information Retrieval and The-
+ory Workshop, Glasgow, UK, 2005.
+[44] D. Losada and L. Azzopardi, Assessing Multivariate Bernoulli Models for Informa-
+tion Retrieval. ACM Transactions on Information Systems, 26(3), 2008.
+[45] R. A. Aronson, Effective mapping of biomedical text to the UMLS Metathesaurus:
+the MetaMap program. Proceedings of 2001 AMIA Symposium, pp. 17-21, 2001.
+[46] S. Deerwester et al., Indexing by latent semantic analysis. Journal of the American
+Society for Information Science, 41(6), pp. 391-407, 1990.

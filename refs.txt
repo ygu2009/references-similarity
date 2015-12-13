@@ -37,7 +37,8 @@ Journal of Computational and Graphical Statistics, 9(2), pp. 249-265, 2000.
 [18] D. Gorur and C. E. Rasmussen, Dirichlet process Gaussian mixture models: choice
 of base distribution. Journal of Computer Science and Technology, 25(4), pp. 615-
 626, 2010.
-[19] F. Nielsen and V. Garcia, Statistical exponential families: A digest with ash cards.
+[19] F. Nielsen and V. Garcia, Statistical exponential families: A digest with 
+ash cards.
 2011
 [20] K. P. Murphy, Conjugate Bayesian analysis of the Gaussian distribution. 2007
 [21] N. Ueda and R. Nakano, Deterministic annealing EM algorithm. Neural Networks,
